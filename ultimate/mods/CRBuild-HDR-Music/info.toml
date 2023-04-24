@@ -1,11 +1,11 @@
 description="""
-This is a skin mod pack for the CR HDR build!
+This is a custom music pack for the CR HDR build!
 This is made to go alongside a vanilla install of HDR.
 Drag and drop install
 
-Credit to the original mod authors for the mods included:
+List of songs can be found here:
 https://docs.google.com/spreadsheets/d/1_s2-BtvbyyBtufFIyBFd_0w809UfMZQz6fh8rRc9Ix4/edit#gid=0
 """
 version="1.0.1"
 authors="Watherum, tezlik, Average Alex, John Fortnite"
-category="Fighter"
+category="Custom Music"
